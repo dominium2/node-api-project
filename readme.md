@@ -23,7 +23,7 @@ This is a Node.js + Express RESTful API project backed by a MySQL database, desi
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/dominium2/node-api-project.git
 cd your-repo-name
 ```
 
