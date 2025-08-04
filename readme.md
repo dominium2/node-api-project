@@ -175,4 +175,5 @@ curl -X DELETE http://localhost:3000/posts/1
 # Tools used
 - VS code
 - github copilot
-- chat GPT:https://chatgpt.com/share/6890c969-dc3c-8003-9808-fce9692bedaa
+- chat GPT: https://chatgpt.com/share/6890c969-dc3c-8003-9808-fce9692bedaa
+- twillo: https://www.twilio.com/docs/usage/api/address
